@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.m{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.img1{
+    height: 400px;
+    width: 400px;
+}
+.img2{
+    height: 400px;
+    width: 400px;
+}
+
+.img3{
+    height: 400px;
+    width: 400px;
+}
+
+.img4{
+    height: 400px;
+    width: 400px;
+}
+.img5{
+    height: 400px;
+    width: 400px;
+}
+
+.img6{
+    height: 400px;
+    width: 400px;
+}
+.btn1{
+    text-align: center;
+}
+.btn2{
+  text-align: center;
+}
+.btn3{
+  text-align: center;
+}
+.btn4{
+  text-align: center;
+}
+.btn5{
+  text-align: center;
+}
+.btn6{
+  text-align: center;
+}
+
+button{
+    background-color: rgb(71, 181, 181);
+}
